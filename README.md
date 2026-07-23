@@ -1,0 +1,2 @@
+# d1d25c0e-ham-radio-electronics-invent
+spending hours building a system before you can actually use it costs you real money. This Notion template pays for itself in one use.  Mobile-optimized for Notion iOS and Android — works everywhere you work. Pre-built databases, views, and formula fields — ready to duplicate and use.  ## What's Included  - Ham Radio &amp; Electronics Inventory And Ass
